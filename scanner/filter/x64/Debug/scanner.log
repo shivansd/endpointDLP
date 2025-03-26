@@ -1,0 +1,23 @@
+﻿  Building 'scanner' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\scanner.inf
+  Stamping [Version] section with DriverVer=03/26/2025,15.0.57.862
+  scanner.c
+  scanner.vcxproj -> C:\dlp\vsprojects\scanner\filter\x64\Debug\scanner.sys
+  Done Adding Additional Store
+  Successfully signed: C:\dlp\vsprojects\scanner\filter\x64\Debug\scanner.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\dlp\vsprojects\scanner\filter\x64\Debug\scanner\scanner.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\scanner\scanner.cat
+  
